@@ -11,6 +11,7 @@
     <title>Contenido</title>
 </head>
 <body>
+<img src="Logosalvandovidas.png" alt="logo">
    <div class="contenedor">
     <h1 class="titulo">
     FUNDACIÓN SALVANDO VIDAS    
@@ -24,9 +25,9 @@
         <article>
             <p>Bienvenid@ a nuestra familia Fundación Salvando Vidas nuestro objetivo es oferecer ayuda a las personas que han sido víctimas de maltrato físico, psicológico, social, educativo y cultural.</p>
             <p>La finalidad de este sitio Web es brindar intervención terapéutica mediante la terapia con enfoque cognitivo conductual.</p> 
-            <p>La misión de la fundación es mejorar la calidad de vida de las niños y niñas que han sido victimas de maltrato y que se encuentran en condiciones vulnerables velando por la protección y el bienestar de los mismos. Por lo que se busca generar estrategias que garanticen la atención integral de los niños.</p>  
-            <p>La visión de la fundación consiste en lograr que los niños que han sido maltratados aprendan a confiar de nuevo, enseñarles a los niños los comportamientos y relaciones normales, esto mediante diversas estrategias fozalizadas bajo la terapia cognitivo conductual.</p>  
         <article>
+            </div>
+        <a href="index.view.php">Acceder a los servicios que brinda la Fundación</a>
     </div>
    </div>
 </body>

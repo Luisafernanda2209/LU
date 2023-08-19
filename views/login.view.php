@@ -42,11 +42,12 @@
 
     </form>
     <p class="texto-registrate">
-        ¿ Aun no tienes cuenta ?
+         ¿ Aun no tienes cuenta ?
     </p>
     <P class="texto">
         <a href="registrate.php" class="texto-registrate-enlace">Registrate</a>
     </P>
+
    </div>
 </body>
 </html>
